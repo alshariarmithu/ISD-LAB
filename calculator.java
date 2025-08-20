@@ -14,7 +14,7 @@ public class BasicCalculator {
         num2 = sc.nextDouble();
 
         System.out.println("Enter the operator (+,-,*,/):");
-
+        //conflict
         char op = sc.next().charAt(0);
         double o = 0;
 
