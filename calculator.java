@@ -36,9 +36,6 @@ public class BasicCalculator {
         default:
             System.out.println("You enter wrong input");
         }
-
-        System.out.println("The final result:");
-        System.out.println();
         System.out.println(num1 + " " + op + " " + num2
                            + " = " + o);
     }
